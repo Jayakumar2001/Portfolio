@@ -1,7 +1,6 @@
 # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
-### Weblink: [Live Website](https://rishavchanda.netlify.app)
 ## Some Images:
 <img width="450px;" src="https://github.com/Jayakumar2001/Portfolio_images/blob/main/Screenshot%202024-03-02%20182646.png"/>
 <img width="450px;" src="https://github.com/Jayakumar2001/Portfolio_images/blob/main/Screenshot%202024-03-02%20182707.png"/>
