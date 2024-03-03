@@ -2,7 +2,8 @@
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
 ## Some Images:
-<img width="450px;" src="https://github.com/Jayakumar2001/Portfolio_images/blob/main/Screenshot%202024-03-02%20182646.png"/>
+<img width="450px;" src="https://raw.githubusercontent.com/Jayakumar2001/Portfolio_images/main/Screenshot%202024-03-02%20182646.png"/>
+
 <img width="450px;" src="https://github.com/Jayakumar2001/Portfolio_images/blob/main/Screenshot%202024-03-02%20182707.png"/>
 <img width="450px;" src="https://github.com/Jayakumar2001/Portfolio_images/blob/main/Screenshot%202024-03-02%20182756.png"/>
 <img width="450px;" src="https://github.com/Jayakumar2001/Portfolio_images/blob/main/Screenshot%202024-03-02%20182810.png"/>
