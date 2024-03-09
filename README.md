@@ -4,11 +4,11 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 ## Some Images:
 
 <img width="450px;" src="https://github.com/Jayakumar2001/Portfolio/blob/main/src/images/1.png/">
-<img width="450px;" src="https://github.com/Jayakumar2001/Portfolio_images/blob/main/Screenshot%202024-03-02%20182707.png"/>
-<img width="450px;" src="https://github.com/Jayakumar2001/Portfolio_images/blob/main/Screenshot%202024-03-02%20182756.png"/>
-<img width="450px;" src="https://github.com/Jayakumar2001/Portfolio_images/blob/main/Screenshot%202024-03-02%20182810.png"/>
-<img width="450px;" src="https://github.com/Jayakumar2001/Portfolio_images/blob/main/Screenshot%202024-03-02%20182922.png"/>
-<img width="450px;" src="https://github.com/Jayakumar2001/Portfolio_images/blob/main/Screenshot%202024-03-02%20183023.png"/>
+<img width="450px;" src="https://github.com/Jayakumar2001/Portfolio/blob/main/src/images/2.png"/>
+<img width="450px;" src="https://github.com/Jayakumar2001/Portfolio/blob/main/src/images/3.png"/>
+<img width="450px;" src="https://github.com/Jayakumar2001/Portfolio/blob/main/src/images/4.png"/>
+<img width="450px;" src="https://github.com/Jayakumar2001/Portfolio/blob/main/src/images/5.png"/>
+<img width="450px;" src="https://github.com/Jayakumar2001/Portfolio/blob/main/src/images/6.png"/>
 
 ## Table of Contents
 - [Introduction](#introduction)
